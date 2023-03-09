@@ -4,7 +4,7 @@ content-type: application/json
 
 {
   "email": "radu2@email.com",
-  "password": "asdlfkajsd"
+  "password": "password"
 }
 
 ### Sign in user
@@ -13,7 +13,7 @@ content-type: application/json
 
 {
   "email": "radu2@email.com",
-  "password": "asdlfkajsd"
+  "password": "password"
 }
 
 ### Get the currently signed in user
